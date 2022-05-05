@@ -1,1 +1,0 @@
-# smathewmanuel.github.io
