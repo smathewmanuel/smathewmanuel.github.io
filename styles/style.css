@@ -3,13 +3,13 @@ html {
     /* px means "pixels": the base font size is now 10 pixels high  */
     font-family: "Playfair Display", serif;
     /* this should be the rest of the output you got from Google fonts */
-    background-color: #BFBFBF;
+    background-color: #ffffff;
 }
 
 h1 {
     margin: 0;
     padding: 20px 0;
-    color: #00539F;
+    color: #4d7cff;
     text-shadow: 2px 2px 2px black;
 }
 
@@ -21,9 +21,10 @@ li {
 }
 
 body {
-    width: 600px;
+    color: #ffffff;
+    width: 700px;
     margin: 0 auto;
-    background-color: #FF9500;
+    background-color: #b4b4b4;
     padding: 0 20px 20px 20px;
     border: 5px solid black;
 }
