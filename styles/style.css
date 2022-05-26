@@ -1,23 +1,29 @@
 html {
-    font-size: 12px;
+    font-size: 20px;
     /* px means "pixels": the base font size is now 10 pixels high  */
-    font-family: "Playfair Display", serif;
+    font-family: 'Quicksand', sans-serif;
     /* this should be the rest of the output you got from Google fonts */
-    background-color: #ffffff;
+    background-color: #f1f1f1;
     height: 100%
 }
 
 h1 {
     margin: 0;
-    padding: 20px 0;
-    color: #0044ff;
-    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    padding: 50px 0 0 0;
+    color: #f3f3f3;
+    text-shadow: 1px 1px 1px rgb(110, 110, 110);
+}
+
+#off-title {
+    margin: 0;
+    color: #b8b8b8;
+    text-shadow: 1px 1px 1px rgb(110, 110, 110);
 }
 
 p,
 li {
     font-size: 16px;
-    line-height: 2;
+    line-height: 1.5;
     letter-spacing: 1px;
 }
 
@@ -26,13 +32,13 @@ body {
     width: 80%;
     min-height: 100%;
     margin: 0 auto;
-    background-color: #f1f1f1;
-    padding: 0 20px 20px 20px;
+    background-color: #bebebe;
+    padding: 60px 0px 20px 0px;
 }
 
 
 a {
-    color: rgb(134, 142, 252);
+    color: rgb(0, 0, 0);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -40,14 +46,43 @@ a {
         background-color: #000000;
     }
 
-    h1 {
 
-        color: #4d7cff;
-        text-shadow: 2px 2px 2px rgb(110, 110, 110);
-    }
 
     body {
         color: #eee;
         background: #111111;
     }
+
+    a {
+        color: rgb(255, 255, 255);
+    }
+
+}
+
+.container2 {
+    padding: 20px 50px 0 50px;
+}
+
+.container {
+    display: flex;
+    align-items: justify;
+}
+
+
+#profil {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#social {
+    float: left;
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.banner {
+    /* The image used */
+    padding: 20px 0 20px 0;
+    background-color: #070c4e;
 }
