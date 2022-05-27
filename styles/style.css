@@ -38,7 +38,7 @@ body {
 
 
 a {
-    color: rgb(0, 0, 0);
+    color: #000000;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -54,18 +54,28 @@ a {
     }
 
     a {
-        color: rgb(255, 255, 255);
+        color: #eee;
     }
 
+}
+
+.container {
+    display: flex;
+    align-items: justify;
 }
 
 .container2 {
     padding: 20px 50px 0 50px;
 }
 
-.container {
-    display: flex;
-    align-items: justify;
+.container3 {
+    padding: 20px 50px 0 50px;
+}
+
+#foot,
+footer ul,
+footer li {
+    font-size: 10px;
 }
 
 
