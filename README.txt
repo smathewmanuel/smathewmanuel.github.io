@@ -54,8 +54,8 @@ The Scrolling Background:
 Credits:
 
 	Background Image:
-		Photo by Trnava University (https://unsplash.com/pt-br/@trnavskauni?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/photos/BEEyeib-am8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  
+		Ryan Schroeder via Unsplash (unsplash.com - CC0 licensed)
+			"Icefields" (flickr.com/photos/ryanschroeder/11876741703)
 
 	Icons:
 		Font Awesome (fontawesome.io)
