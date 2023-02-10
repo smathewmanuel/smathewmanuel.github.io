@@ -54,7 +54,7 @@ The Scrolling Background:
 Credits:
 
 	Background Image:
-		Photo by [Trnava University](https://unsplash.com/pt-br/@trnavskauni?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/BEEyeib-am8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+		Photo by Trnava University (https://unsplash.com/pt-br/@trnavskauni?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/photos/BEEyeib-am8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   
 
 	Icons:
